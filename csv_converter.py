@@ -22,7 +22,7 @@ def csv_converter():
                 row['format'] = "CHIP-0007"
                 row['sensitive_content'] = False
 
-                temp = row['attributes']
+                attributes = row['attributes']
                 row['attributes'] = convert_to_dict(row['attributes'])
 
                 try:
@@ -41,7 +41,7 @@ def csv_converter():
                     jsonfile.write(json.dumps(row, indent=4))
 
                 # delete unneeded attributes or data from the loop before appending to the data list.
-                row['attributes'] = temp
+                row['attributes'] = attributes
                 del row['format']
                 del row['series_total']
                 del row['sensitive_content']
