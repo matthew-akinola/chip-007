@@ -9,11 +9,7 @@ from chip007_lib import dict_hash, convert_to_dict, get_filename
 def csv_converter():
     filepath = input("Enter the file path of filename(if file is in current dir): ")
     data = []
-    # The sum of the entire entries minus the header
-    total_entries = sum(1 for _ in open(filepath)) - 1
-
     try:
-        # Initial Opening of the csv file
         with open(filepath, encoding='utf-8') as csv_file:
             csv_reader = csv.DictReader(csv_file)
 
@@ -24,7 +20,6 @@ def csv_converter():
                 value = row['filename']+'.json'
                 row['hash'] = dict_hash(value)
                 row['format'] = "CHIP-0007"
-                row['series_total'] = total_entries
                 row['sensitive_content'] = False
 
                 temp = row['attributes']
@@ -34,8 +29,7 @@ def csv_converter():
                     # attempt to cast to int
                     row['series number'] = int(row['series number'])
 
-                except:  # FileNotFoundError:
-                    # if a non-number value is encountered, just skip and continue
+                except:  
                     continue
 
                 # first create a folder to store the json files
