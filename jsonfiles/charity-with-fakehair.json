@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 206,
+    "filename": "charity-with-fakehair",
+    "name": "charity with fakehair",
+    "description": "A girl with a bald hair but always wears wig to cover her head.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "orange",
+        "eyes": "glasses",
+        "teeth": null,
+        "clothing": "blouse",
+        "accessories": "normal",
+        "expression": null,
+        "strength": null,
+        "weakness": "barbing-saloon"
+    },
+    "uuid": "efc0f7f5-d90b-46cc-be0b-6fcaa23a5422",
+    "hash": "785bc62c7ba5196842d864b4098dd35807aacd0449f4a0730bd27da5f6923a8d",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

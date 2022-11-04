@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 178,
+    "filename": "2pac-the-remix",
+    "name": "2pac the remix",
+    "description": "2pac is alive in him because his style is exactly the same.",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": "blue iris",
+        "teeth": "gapped teeth",
+        "clothing": "Igbo clothing",
+        "expression": "surprised",
+        "accessories": "face cap",
+        "strength": "hardworking",
+        "weakness": "fear"
+    },
+    "uuid": "9993e5ec-2f31-485c-9c6d-f780c078ae56",
+    "hash": "c9e49e479da58b57fe8441cb136c38319558f7ddc0a37a6acc0cbd796c71818d",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

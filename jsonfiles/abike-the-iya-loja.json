@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 397,
+    "filename": "abike-the-iya-loja",
+    "name": "abike the iya loja",
+    "description": "Abike is a well known trader & the iya-loja of the largest market in Lagos.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "purple bun",
+        "eyes": "midnight black",
+        "teeth": "vampiric",
+        "clothing": "purpulish black buba",
+        "accessories": "berret",
+        "expression": "scary",
+        "strength": "hammer of justice",
+        "weakness": "oya"
+    },
+    "uuid": "7b210c03-5446-462d-980e-c73dbbc1e386",
+    "hash": "b0711a5608ec32f104f3639a3089d0bb557600772f55c0aa22b98b222b78431a",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

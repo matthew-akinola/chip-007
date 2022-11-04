@@ -1,0 +1,23 @@
+{
+    "team names": "",
+    "series number": 18,
+    "filename": "tiwa-london",
+    "name": "tiwa london",
+    "description": "If she says she's in London and you see her; you're in London too.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "braids",
+        "eyes": null,
+        "teeth": null,
+        "clothing": "black top",
+        "accessories": "glasses",
+        "expression": null,
+        "strength": null,
+        "weakness": "untruthfulness",
+        "": ""
+    },
+    "uuid": "78da7aeb-8352-4e25-89ac-dc48b5984089",
+    "hash": "de4ec7e58542c6beb3c62ca9604ca7bb791d003103d73fa9e40597b27f862e98",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

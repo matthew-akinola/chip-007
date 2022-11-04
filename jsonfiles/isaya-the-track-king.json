@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 340,
+    "filename": "isaya-the-track-king",
+    "name": "isaya the track king",
+    "description": "Isaya the traveller has done a lot of travelling round Africa. ",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": "glassed up",
+        "teeth": null,
+        "clothing": "bright ankara",
+        "accessories": null,
+        "expression": "taken aback",
+        "strength": "straight forward",
+        "weakness": "selfish"
+    },
+    "uuid": "41781a16-d2b8-4fc6-a1f4-b9fffc5c95ba",
+    "hash": "78c095934fa25840d621f9ee4c9f6bfb05c25044d5ccb5b5965eafd645fb2d1c",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

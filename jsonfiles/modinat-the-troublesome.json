@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 368,
+    "filename": "modinat-the-troublesome",
+    "name": "modinat the troublesome",
+    "description": "Modinat; The queen of gbas gbos.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "long maroon hair",
+        "eye": null,
+        "teeth": "vampire teeth",
+        "clothing": "right one-shoulder wax print",
+        "accessories": "brown glasses",
+        "expression": null,
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "49eb44e8-1117-463b-b7b3-1bcea4258362",
+    "hash": "c907b1f53bb467b6a2ab4f98460e8b6fb39b11d714278d6f219d853f725df2c7",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

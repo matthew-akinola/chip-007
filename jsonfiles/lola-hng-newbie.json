@@ -1,0 +1,22 @@
+{
+    "team names": "TEAM TAPE",
+    "series number": 221,
+    "filename": "lola-hng-newbie",
+    "name": "lola hng newbie",
+    "description": "A confused hng participant that cannot understand her project.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "brown",
+        "eyes": "white",
+        "teeth": "white",
+        "clothing": "ankara",
+        "accessories": null,
+        "expression": "surprised",
+        "strength": null,
+        "weakness": "confused"
+    },
+    "uuid": "0ddbd22c-b3bb-4c72-9f51-0361480bbfa7",
+    "hash": "8d077df8d6d1da1d011df4717b23d96b8c52562e676601b95f402576a1f15157",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

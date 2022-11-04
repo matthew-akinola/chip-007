@@ -1,0 +1,22 @@
+{
+    "team names": "TEAM ENGINE",
+    "series number": 41,
+    "filename": "kim-rich-aunty",
+    "name": "kim rich aunty",
+    "description": "She loves spoiling her nieces and nephew.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "pink",
+        "eyes": "brown",
+        "teeth": null,
+        "clothing": "ankara",
+        "accessories": null,
+        "expression": "smiling",
+        "strength": "brave",
+        "weakness": "food"
+    },
+    "uuid": "3344a73c-f15e-4afd-a1b2-3199e27eb08f",
+    "hash": "92eb51eec7e9c96fd5bf613f147e30a7ad4559897d6922bc92bfe19767626832",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

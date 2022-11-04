@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 128,
+    "filename": "olu-the-oba",
+    "name": "olu the oba",
+    "description": "Olu the great ruler in our land.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "purple braided hair",
+        "eyes": "black",
+        "teeth": null,
+        "clothing": "mixed color traditional wear",
+        "accessories": null,
+        "expression": "serious face",
+        "strength": "mild",
+        "weakness": "anger"
+    },
+    "uuid": "04c4b28a-aca0-44b1-a064-ed0d9d2a31ca",
+    "hash": "b5e51e8ec9b59b081a27c23d30bdd520f251050287b92fcb43e216311286bc6c",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

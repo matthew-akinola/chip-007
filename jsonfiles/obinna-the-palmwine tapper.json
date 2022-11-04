@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 32,
+    "filename": "obinna-the-palmwine tapper",
+    "name": "obinna the palmwine tapper",
+    "description": "Obinna taps palmwine for a living.",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": "black",
+        "teeth": null,
+        "clothing": "yellow black and a touch of pink ankara",
+        "accessories": "cap",
+        "expression": "happy",
+        "strength": "contentment",
+        "weakness": "naive"
+    },
+    "uuid": "0f1af056-2548-4407-bed4-abc11deae05d",
+    "hash": "859a9a23a8e32c994d7ede48647da7eed89e547c1018a4d4fc951f5986ebe7fe",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

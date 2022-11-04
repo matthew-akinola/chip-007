@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 339,
+    "filename": "wamenza-the-winner",
+    "name": "wamenza the winner",
+    "description": "Wamenza the leader has led his team to yet another thrillig victory. ",
+    "gender": "Female",
+    "attributes": {
+        "hair": "laid back",
+        "eyes": null,
+        "teeth": null,
+        "clothing": "off shoulder ankara",
+        "accessories": null,
+        "expression": "meditative",
+        "strength": "strict",
+        "weakness": "impulsive"
+    },
+    "uuid": "7348c9ed-4ac9-4785-9434-0a1f0dcaf8d8",
+    "hash": "8449fcd697823f97f72cdf73aa7e1bae2ed904cee64d2bf6fee07e9e7e775b8b",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

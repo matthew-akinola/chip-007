@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 14,
+    "filename": "muyiwa-the-stylish",
+    "name": "muyiwa the stylish",
+    "description": "Muyiwa has a motto which is never to be caught unfresh.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "bald",
+        "eyes": "ash",
+        "teeth": null,
+        "clothing": "multicolored",
+        "accessories": "mask",
+        "expression": null,
+        "strength": "creativity",
+        "weakness": null
+    },
+    "uuid": "dcf9d5a0-57b7-4126-a05e-6c8f1045d3f7",
+    "hash": "6295d9f4d28f0e758441c1965bb048ed42bed85240ef6fd32ea9f2caae71a0ab",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

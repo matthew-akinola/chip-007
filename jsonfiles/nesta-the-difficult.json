@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 371,
+    "filename": "nesta-the-difficult",
+    "name": "nesta the difficult",
+    "description": "Meet Nesta;the National Chairlady; (SAN)Shege Administrators of Nigeria.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "double puffy hair",
+        "eyes": "brown",
+        "teeth": null,
+        "clothing": "bow neck wax print",
+        "accessories": "hair bands",
+        "expression": null,
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "fc3b7ca7-efdb-45b2-b7c9-e69107484a43",
+    "hash": "941332501a1775f3b02e69fcabb2f45209dcf739ec68de63e856b50a8a98c228",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

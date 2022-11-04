@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 387,
+    "filename": "nyame-the-traveller",
+    "name": "nyame the traveller",
+    "description": "Nyame and adventure loving traveller who loves to explore the African continent.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "bald",
+        "eyes": "black",
+        "teeth": null,
+        "expression": null,
+        "clothing": "yellow patterned danshiki with black lining",
+        "accessories": "facemask",
+        "strength": "heatblast",
+        "weakness": "cattles"
+    },
+    "uuid": "f3af0bbd-0724-4696-89ff-ed67f63e6b4f",
+    "hash": "1cffc561dc4df5163248e3366443904681db60d85eb9f5eacfd92ccc5282d07b",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 386,
+    "filename": "jagaban-of-afrobeats",
+    "name": "jagaban of afrobeats",
+    "description": "Jagaban is a party mover who wows the crowd with his theatrics.",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": "sleepy",
+        "teeth": null,
+        "clothing": "black danshiki with patterns",
+        "accessories": "facemask",
+        "expression": null,
+        "strength": "illusions",
+        "weakness": "mirrors"
+    },
+    "uuid": "784f0f6b-4273-4a31-88d7-2455b96c9011",
+    "hash": "fb60a965919279b7949a65070d4ff3a895ab14b9e7457d3a6bf57bf8ebbb4661",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

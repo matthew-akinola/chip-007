@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 194,
+    "filename": "sandy-the-rapper",
+    "name": "sandy the rapper",
+    "description": "She just loves to rap and Quavo is her super star.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "bald",
+        "eyes": null,
+        "teeth": null,
+        "clothing": null,
+        "accessories": null,
+        "expression": null,
+        "strength": "clean",
+        "weakness": "foodie"
+    },
+    "uuid": "778b0412-b5b9-4b0c-bbcd-5c0fbb360fd7",
+    "hash": "07391d2e8b7a377e50005fe70b13726ce59354a85ce243e4e7115dcd004a596f",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

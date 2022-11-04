@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 408,
+    "filename": "afro-star",
+    "name": "afro star",
+    "description": "Bimbo is an afro star with great affluence.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "orange afro",
+        "eyes": "brown",
+        "teeth": null,
+        "clothing": "ghana kente dress",
+        "accessories": null,
+        "expression": "inspired",
+        "strength": "money",
+        "weakness": "aggresive"
+    },
+    "uuid": "40743b16-ae12-4b4a-989c-e5fbf1e2e0ca",
+    "hash": "cb1a41eed76483a4b17cda141513dfe30679fa88dcd796bd74180879658210e3",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

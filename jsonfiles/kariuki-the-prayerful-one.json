@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 334,
+    "filename": "kariuki-the-prayerful-one",
+    "name": "kariuki the prayerful one",
+    "description": "Kariuki closes his eyes as he watches the sunset.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "bald",
+        "eyes": "closed eyes",
+        "teeth": null,
+        "clothing": null,
+        "accessories": null,
+        "expression": "bored",
+        "strength": "intelligent",
+        "weakness": "passive"
+    },
+    "uuid": "6a5b6fa6-0f91-4b01-957f-c766945eb704",
+    "hash": "421317797f5d18b3b5c90312622ec97254ebc28f285c9d655fd00a707f7d9d7f",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

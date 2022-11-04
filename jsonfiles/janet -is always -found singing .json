@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 317,
+    "filename": "janet -is always -found singing ",
+    "name": "janet the singer",
+    "description": "Janet is always found singing in whatever activity she\u2019s doing.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "purple",
+        "eyes": "covered eyes",
+        "teeth": null,
+        "clothing": "yellow and blue ankara",
+        "accessories": "yellow glasses",
+        "expression": "cool",
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "50393214-af0c-4e21-88f7-5c031c46a8b4",
+    "hash": "bffd43f2b9418f4d7980044cf127a1b4672155637c4bd42a371b1e081e7e9d47",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

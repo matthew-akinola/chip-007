@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 240,
+    "filename": "karim-rapper",
+    "name": "karim rapper",
+    "description": "A young and proud Lagos rapper.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "black",
+        "eyes": "blue",
+        "teeth": null,
+        "clothing": "ankara",
+        "accessories": null,
+        "expression": "proud",
+        "strength": "smart",
+        "weakness": null
+    },
+    "uuid": "169b58f8-b84a-4ab3-a4b6-d1c5b36aa1d3",
+    "hash": "1d72f7ce5a8128cff030d6256417d9a70f319ca19122421553b881aa476f1bed",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

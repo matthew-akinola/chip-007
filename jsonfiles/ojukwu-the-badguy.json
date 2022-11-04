@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 344,
+    "filename": "ojukwu-the-badguy",
+    "name": "ojukwu the badguy",
+    "description": "Ojukwu is a business minded guy but fun to be with.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "bald",
+        "eyes": "eagle eyeball",
+        "teeth": null,
+        "clothing": "yellow lining blowse",
+        "accessories": null,
+        "expression": null,
+        "strength": "good eyes for fashion",
+        "weakness": "lack will power"
+    },
+    "uuid": "76c1eabf-15ea-446a-8426-472982c4d800",
+    "hash": "1d6627a5a8880e531201d019ba8d558d580732735f58548774c05f97768dbf32",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

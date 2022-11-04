@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 249,
+    "filename": "akpos-agbero",
+    "name": "akpos agbero",
+    "description": "A Warri boy always in the mood for violence.",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": "black",
+        "teeth": "rabbit front teeth",
+        "clothing": "brown polo and blue pinafore",
+        "accessories": "cap",
+        "expression": "angry",
+        "strength": "physically fit",
+        "weakness": "short-tempered"
+    },
+    "uuid": "70875603-9e90-467f-9d44-af15f71b70e9",
+    "hash": "b681ce6bac19ada494f5804aa9e1372ef5a3a3bbe7a602b36ee76509cf358301",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

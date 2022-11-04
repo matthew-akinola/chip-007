@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 182,
+    "filename": "lola-babe",
+    "name": "lola babe",
+    "description": "You will always see her in tight fittted dresses; she loves the exquisite life.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "brown",
+        "eyes": "blue",
+        "teeth": null,
+        "clothing": "aso-oke",
+        "accessories": null,
+        "expression": "happy",
+        "strengths": "calculative",
+        "weakness": "misleading"
+    },
+    "uuid": "7c80747e-9ba7-4fb7-ab69-ff09c7f75d58",
+    "hash": "7d0a9da1c480136bfad99b8b775d7fe1a10f960afa597ced9586d9f20e07f2f4",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

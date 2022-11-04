@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 26,
+    "filename": "saro-the-baller",
+    "name": "saro the baller",
+    "description": "Saro is a baller and he is always ready to turn-up",
+    "gender": "Male",
+    "attributes": {
+        "hair": "orange afro",
+        "eyes": "blue",
+        "teeth": "two white teeth with diastema",
+        "clothing": "black and yellow kente",
+        "accessories": null,
+        "expression": "angry",
+        "strength": "strong",
+        "weakness": "insatiable"
+    },
+    "uuid": "d35a7514-8996-42fb-a5f2-5a603ec679c5",
+    "hash": "a564b951d413daa1505d5c8354e6340139c8228e97a94aa8fd1a3c845bb4ead5",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 404,
+    "filename": "pretty-betty",
+    "name": "pretty betty",
+    "description": "Betty is very proud of her beauty and does not hesitate to flaunt it.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "orange bob",
+        "eyes": "closed",
+        "teeth": null,
+        "clothing": "orange one hand ankara print",
+        "accessories": null,
+        "expression": "stoic",
+        "strength": "beauty",
+        "weakness": "pride"
+    },
+    "uuid": "6a4f5b7c-914d-42c5-8e5f-d1c34ca48886",
+    "hash": "7b3cb6583421100867b234cb1c583c187641410c90f46ff1eab5e7fa3c008c41",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

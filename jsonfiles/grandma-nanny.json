@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 208,
+    "filename": "grandma-nanny",
+    "name": "grandma nanny",
+    "description": "A grandmother that does nothing but sleeps all day.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "white",
+        "eyes": "blue",
+        "teeth": null,
+        "clothing": "blouse",
+        "accessories": "fashion",
+        "expression": "smiling",
+        "strength": "design",
+        "weakness": null
+    },
+    "uuid": "ec8fe198-5c45-42a6-a909-4cfbcbbf6519",
+    "hash": "f15bca4d4b05d3dc26181f93165494c8bf1563f79cc9188f3a9f7d50e1d62023",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

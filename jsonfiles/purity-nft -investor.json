@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 52,
+    "filename": "purity-nft -investor",
+    "name": "purity nft investor",
+    "description": "She is an angel investor looking for the next big thing.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "blue",
+        "eyes": "brown",
+        "teeth": null,
+        "clothing": "ankara",
+        "accessories": null,
+        "expression": "smiling",
+        "strength": "brave",
+        "weakness": "clothes"
+    },
+    "uuid": "ee86ef77-4793-411a-88d3-ea54d84f6b24",
+    "hash": "2925e8bca4775b0c2b18e689fc56cf113a751ab3de2a0ca70f69f47b441b5c7a",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 25,
+    "filename": "wole-the-pimp",
+    "name": "wole the pimp",
+    "description": "Wole knows people and his way around his city.",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": "black",
+        "teeth": "two white teeth with diastema",
+        "clothing ": "yellow dashiki",
+        "accessories": "yori yori",
+        "expression": "happy",
+        "strength": "strong",
+        "weakness": "promiscuous"
+    },
+    "uuid": "4d94d4f7-9b69-4e43-9db1-1fe83df92857",
+    "hash": "af070dd3ef1e40d956b0a24ca7fcebf1ff5833e1a13cc8a414dbd284b4e3db13",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

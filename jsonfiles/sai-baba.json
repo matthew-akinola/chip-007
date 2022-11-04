@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 93,
+    "filename": "sai-baba",
+    "name": "sai baba",
+    "description": "A leader of a third-world country.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "brown",
+        "eyes": "black",
+        "teeth": null,
+        "clothing": "off-shoulder ankara top",
+        "accessories": "earrings and necklace",
+        "expression": "anxious",
+        "strength": "trend spotter",
+        "weakness": "distracted easily"
+    },
+    "uuid": "fdfff369-5b57-4612-9f89-f5d408f24a35",
+    "hash": "976cbfeb80dd5ab06d9240479f9fad992a30266c368cf6f0593750c57a07df65",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

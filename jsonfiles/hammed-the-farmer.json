@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 103,
+    "filename": "hammed-the-farmer",
+    "name": "hammed the farmer",
+    "description": "Hammed owns a farm with his family.",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": "opened",
+        "teeth": null,
+        "clothing": "brown and cream buba",
+        "accessories": "nose mask",
+        "expression": "innocent",
+        "strength": "farming",
+        "weakness": "drinking"
+    },
+    "uuid": "e57d8985-599e-49da-8d62-fc16b7ac93f2",
+    "hash": "0b39f0939d768a6f8deef7c92c1b6e7a6fb68be98f516219259ce8bcf007f159",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

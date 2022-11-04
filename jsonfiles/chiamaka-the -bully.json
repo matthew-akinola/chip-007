@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 312,
+    "filename": "chiamaka-the -bully",
+    "name": "chiamaka the bully",
+    "description": "Chiamaka hates people in her business and likes to scare the kids on the block.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "pink",
+        "eyes": "brown",
+        "teeth": null,
+        "clothing": "multi-colored ankara",
+        "accessories": "smoking pipe",
+        "expression": "strong",
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "10f44a39-9d46-43e1-a650-b288fcef2564",
+    "hash": "22c924c37ca532bd3bd2fc76cce0577c07910916b5e60b08ad3cf4758c3a1f9a",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

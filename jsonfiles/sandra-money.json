@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 39,
+    "filename": "sandra-money",
+    "name": "sandra money",
+    "description": "Sandra likes getting and spending money.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "brown",
+        "eyes": null,
+        "teeth": null,
+        "clothing": "yellow and black",
+        "accessories": "glasses",
+        "expression": "confused",
+        "strength": "brave",
+        "weakness": "overthinker"
+    },
+    "uuid": "1bd95fb0-7b2e-4354-bebd-22f9cf70a1ca",
+    "hash": "d331b26ff26df9f0895d43f76a907689ea1c28bfcfe4b5108b9d82b18402ee34",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

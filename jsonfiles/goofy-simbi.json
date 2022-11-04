@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 227,
+    "filename": "goofy-simbi",
+    "name": "goofy simbi",
+    "description": "An eccentric teenager that loves music.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "pumpkin",
+        "eyes": "blue",
+        "teeth": null,
+        "clothing": "ankara",
+        "accessories": null,
+        "expression": "indifferent",
+        "strength": null,
+        "weakness": "unconventional behaviour"
+    },
+    "uuid": "df7dc588-f99c-4592-84f6-08b40047d9d1",
+    "hash": "726ba8e9168fb5759a0a007c9b05c8f3e6e57bf0a84e7a1ffcc63ac2cb15ba76",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

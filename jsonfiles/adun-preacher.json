@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 100,
+    "filename": "adun-preacher",
+    "name": "adun preacher",
+    "description": "A religious woman.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "black short hair",
+        "eyes": "blue",
+        "teeth": null,
+        "clothing": "blue paisley print blouse",
+        "accessories": "ankara bonnet and hookah",
+        "expression": "blank",
+        "strength": "bold",
+        "weakness": "fake"
+    },
+    "uuid": "cc4dfedf-c343-48db-ad67-e39452ec2380",
+    "hash": "d5266e51628a30ebbaa5ddaa8132cc2a7a3322c1d8cb435525043f20984294eb",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

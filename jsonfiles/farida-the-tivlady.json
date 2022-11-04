@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 104,
+    "filename": "farida-the-tivlady",
+    "name": "farida the tivlady",
+    "description": "Farida is a beautiful Tiv woman.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "brown",
+        "eyes": "opened",
+        "teeth": null,
+        "clothing": "ankara print",
+        "accessories": "lipgloss",
+        "expression": "cool",
+        "strength": "cooking",
+        "weakness": "multitasking"
+    },
+    "uuid": "31d3e229-003e-43c8-ba82-38f49cf58ccb",
+    "hash": "20579151ec1f76c276d0dd13992d0d16637e9d27dff96bf4d8e915588b9b9c80",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

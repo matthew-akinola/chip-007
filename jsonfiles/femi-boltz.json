@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 235,
+    "filename": "femi-boltz",
+    "name": "femi boltz",
+    "description": "A driver hustling his way through life.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "black",
+        "eyes": "blue",
+        "teeth": null,
+        "clothing": "ankara",
+        "accessories": null,
+        "expression": "proud",
+        "strength": "smart",
+        "weakness": null
+    },
+    "uuid": "03e8d36d-5bdc-4da4-8f64-c1738eb9d1db",
+    "hash": "bfabc5e5637fc0c108de478f93976b51af9714ccecd61b2b7757b0929610cd18",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

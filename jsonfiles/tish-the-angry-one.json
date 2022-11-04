@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 338,
+    "filename": "tish-the-angry-one",
+    "name": "tish the angry one",
+    "description": "Tish is always angry and with specs on he looks really mean. ",
+    "gender": "Female",
+    "attributes": {
+        "hair": "black huge afro",
+        "eyes": null,
+        "teeth": "broken teeth",
+        "clothing": "off shoulder ankara",
+        "accessories": null,
+        "expression": "disgusted",
+        "strength": "blunt",
+        "weakness": "greedy"
+    },
+    "uuid": "750a89dc-44ff-43bf-8211-b7776f1b5e52",
+    "hash": "7dc62917386e080f7a9a603a1c81538c807b8e809ba4e937b999b85c3de825e6",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

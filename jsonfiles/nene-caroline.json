@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 222,
+    "filename": "nene-caroline",
+    "name": "nene caroline",
+    "description": "A housewife that loves taking care of her family.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "brown",
+        "eyes": "white",
+        "teeth": null,
+        "clothing": "ankara",
+        "accessories": null,
+        "expression": "calm",
+        "strength": "loving",
+        "weakness": "novice"
+    },
+    "uuid": "4ce5bcf3-d4ed-4277-8187-cb1797c1ac7e",
+    "hash": "f3303c2c30979c4d724c107e9d89de371e48685d344f08620647bac24edfe6d3",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

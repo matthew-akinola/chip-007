@@ -1,0 +1,22 @@
+{
+    "team names": "TEAM AXE",
+    "series number": 381,
+    "filename": "baba-ijebu-the-gambler",
+    "name": "baba ijebu the gambler",
+    "description": "Baba Ijebu likes to spend all his money playing ayo; he plays till the moon is high.",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": "sky blue",
+        "teeth": null,
+        "clothing": null,
+        "accessories": "facemask",
+        "expression": null,
+        "strength": "creation god",
+        "weakness": "love"
+    },
+    "uuid": "26340cc4-e334-494e-a737-f2b4bb9bb22e",
+    "hash": "ddc1743c8e5ef5ebae998c1308ba1f477c979e7e6a59b6b0e53e5a57adb19456",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

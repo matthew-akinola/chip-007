@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 191,
+    "filename": "disy-the-queen",
+    "name": "disy the queen",
+    "description": "An introvert that loves her own space.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "one bun dark brown",
+        "eyes": null,
+        "teeth": null,
+        "clothing": null,
+        "accessories": null,
+        "expression": null,
+        "strength": "beauty",
+        "weakness": "lover girl"
+    },
+    "uuid": "c2807d94-0192-4dca-be02-1e5ac8a42d74",
+    "hash": "2d06f243d6a65e4365310431f963c95d5df2ac763b95b550b95b679266fe3938",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 318,
+    "filename": "emi-the-reggae-girl",
+    "name": "emi the reggae girl",
+    "description": "EMi is a beautiful dancer; she rules the reggae world.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "pink braids",
+        "eyes": "covered eyes",
+        "teeth": null,
+        "clothing": "multicolored ankara",
+        "accessories": "yellow glasses",
+        "expression": "happy",
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "a5435181-91be-47eb-9df1-002115e1fbdd",
+    "hash": "dd42599b57f46e6b51b6ae10a1c35ce596e7a580fa58d54aaf5122ef1c700642",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

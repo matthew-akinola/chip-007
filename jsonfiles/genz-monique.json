@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 234,
+    "filename": "genz-monique",
+    "name": "genz monique",
+    "description": "A sassy lady with her own vibe.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "pinkish-brown",
+        "eyes": "black",
+        "teeth": null,
+        "clothing": "ankara",
+        "accessories": null,
+        "expression": "despiteful",
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "b5328f13-b918-4e76-8d4c-8b4aec5eb5fe",
+    "hash": "cec5ed671a66e7e1bbad6f4ee3e6f00db1e351b5f01b543164935a1d98101ce2",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

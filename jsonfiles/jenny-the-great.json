@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 189,
+    "filename": "jenny-the-great",
+    "name": "jenny the great",
+    "description": "Loves burna boy; you will always catch him on his tracks.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "black",
+        "eyes": null,
+        "teeth": null,
+        "clothing": null,
+        "accessories": "scalf",
+        "expression": null,
+        "strength": "badass",
+        "weakness": "cancer"
+    },
+    "uuid": "3caaefcd-329e-4e25-af9e-21bb07c52380",
+    "hash": "3c8600c4aecbcbf00532eec9e43d53d9508cc451e2cd990b5606b86f33797819",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

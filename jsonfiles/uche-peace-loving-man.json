@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 133,
+    "filename": "uche-peace-loving-man",
+    "name": "uche peace loving man",
+    "description": "Uche man of peace and discipline.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "yellow",
+        "eyes": "blue",
+        "teeth": null,
+        "clothing": "yellow",
+        "accessories": null,
+        "expression": "happy",
+        "strength": "strong",
+        "weakness": "emotional"
+    },
+    "uuid": "6c9d6eae-2ea2-468c-a2c8-928aaafc084b",
+    "hash": "34cc032f191d82f905fc0ea03b9e4401b8f666553dea83722d6939db74f91070",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 198,
+    "filename": "opeyemi-of-lekki",
+    "name": "opeyemi of lekki",
+    "description": "She is a lekki socialite; braids her hairfor 85k.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "bald",
+        "eyes": null,
+        "teeth": null,
+        "clothing": null,
+        "accessories": null,
+        "expression": null,
+        "strength": "conversationist",
+        "weakness": "traditionalist"
+    },
+    "uuid": "65cdbeee-071a-4700-bccf-cb437f3d066d",
+    "hash": "9839da32ac7d8f7c37c3e676147f54098c9e9ed07f52351abd30cb2a284403bb",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

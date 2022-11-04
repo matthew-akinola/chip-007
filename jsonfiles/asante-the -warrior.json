@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 309,
+    "filename": "asante-the -warrior",
+    "name": "asante the warrior",
+    "description": "Asante came from a long line of warriors in Ghana.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "pink braids",
+        "eyes": "covered eyes",
+        "teeth": null,
+        "clothing": "one-armed brightly colored dress",
+        "accessories": null,
+        "expression": "calm",
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "c7a25f63-441e-49db-9718-6f48dfcb6b7d",
+    "hash": "1bb06ed1f44f4450a10ce940631a83b3f82cf2fea45d53e6dc1f8fd16da6b59e",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

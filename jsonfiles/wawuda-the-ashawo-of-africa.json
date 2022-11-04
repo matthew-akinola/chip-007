@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 149,
+    "filename": "wawuda-the-ashawo-of-africa",
+    "name": "wawuda the ashawo of africa",
+    "description": "Brags about his body count and follows skirt anywhere.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "blue",
+        "eyes": null,
+        "teeth": null,
+        "clothing": "green top with blue overalls",
+        "accessories": null,
+        "expression": "fear",
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "0554bf35-f588-4009-aafc-ef875b878c29",
+    "hash": "161fbfa59f9c6372ab6a0f05997392d999c44b64eef56951c3b05aac44f6755c",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

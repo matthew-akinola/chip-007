@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 218,
+    "filename": "tinubu-gateman",
+    "name": "tinubu gateman",
+    "description": "Tinubu has been a gateman all his life.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "cap",
+        "eyes": "blue",
+        "teeth": "tongue",
+        "clothing": "shirt",
+        "accessories": "fashion",
+        "expression": "laugh",
+        "strength": "laughter",
+        "weakness": null
+    },
+    "uuid": "c587932b-0b8c-4f70-8465-425a1f53df64",
+    "hash": "4a936da5257e0c5459efe76819d823a8545e25c27773891161943e1a09fb296e",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

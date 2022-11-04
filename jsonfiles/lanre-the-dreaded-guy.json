@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 131,
+    "filename": "lanre-the-dreaded-guy",
+    "name": "lanre the dreaded guy",
+    "description": "Lanre has a great reputation.",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": null,
+        "teeth": "white",
+        "clothing": "ankara",
+        "accessories": "cap",
+        "expression": "happy",
+        "strength": "strong",
+        "weakness": "anger"
+    },
+    "uuid": "66a054cd-5541-4000-98aa-8f2e9892d880",
+    "hash": "d82666d2f26d0a96f605d8369178c052a4ae007b943e0d8c36578db255728552",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

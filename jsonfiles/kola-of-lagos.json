@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 120,
+    "filename": "kola-of-lagos",
+    "name": "kola of lagos",
+    "description": "Kola is the life of the party everywhere he is.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "bald",
+        "eyes": "opened",
+        "teeth": null,
+        "clothing": "native",
+        "accessories": null,
+        "expression": null,
+        "strength": "intelligent",
+        "weakness": "shy"
+    },
+    "uuid": "df295be1-1509-406e-a263-28a5dee0abca",
+    "hash": "04a78cf1c160acef4c0c3624c095dbb142dcd3f5642ee9ec88fe10dddd3c3cb9",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

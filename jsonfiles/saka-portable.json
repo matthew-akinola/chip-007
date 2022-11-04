@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 417,
+    "filename": "saka-portable",
+    "name": "saka portable",
+    "description": "Saka is forever convinced that his toothless smile is the icing on his cake.",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": null,
+        "teeth": null,
+        "clothing": "black and blue shirt",
+        "accessories": "purple cap and yellow sunglasses",
+        "expression": null,
+        "strength": "confidence",
+        "weakness": "stubborn"
+    },
+    "uuid": "bd98f74f-e42e-494e-8298-3183555ca666",
+    "hash": "ed36dccaa5f65ae40343413430897b337c0f593ea5d0516a0e3194624d390089",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

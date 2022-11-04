@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 400,
+    "filename": "Nana-the-dancer",
+    "name": "nana the dancer",
+    "description": "Nana is a dancer from Kumasi who performes at well known events all over Ghana.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "orange afro",
+        "eyes": "brown",
+        "teeth": null,
+        "clothing": "yellow patterned kento",
+        "accessories": null,
+        "expression": "hopeful",
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "9609d0f4-d9d3-4cff-aa06-a9c459fefa39",
+    "hash": "9e698a866664dca52954677b3e0f199cf9679815a8735ece850aaa8a60ee093c",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

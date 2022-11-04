@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 188,
+    "filename": "disy-the-dancer",
+    "name": "disy the dancer",
+    "description": "A dancer that brings the spotlight on her.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "black",
+        "eyes": "black",
+        "teeth": null,
+        "clothing": "one arm top",
+        "accessories": "scarf",
+        "expression": "bad girl vibes",
+        "strength": "cleaniness",
+        "weakness": "perfectionist"
+    },
+    "uuid": "850f407d-d106-4b0e-89cd-e35d9261aedd",
+    "hash": "2bc08328456f84465a74cf83e101746e4ce583d0473097270e981e7590becc84",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

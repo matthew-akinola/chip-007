@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 403,
+    "filename": "sea-rastafaria",
+    "name": "sea rastafaria",
+    "description": "Ronke is the ghetto goddess that nobody wants to mess with; stay clear.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "purple dreadlocks",
+        "eyes": "closed",
+        "teeth": null,
+        "clothing": "blue one hand dress",
+        "accessories": null,
+        "expression": "unfazed",
+        "strength": "intellect",
+        "weakness": "impatient"
+    },
+    "uuid": "d1556c97-9075-49fc-8bde-1826bfc2dbe1",
+    "hash": "2c474174834bc443efa1ef4814e251f6b6fd9500787a429f2d939641a48b9b6b",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

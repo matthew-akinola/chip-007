@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 2,
+    "filename": "alli-the-queeny",
+    "name": "alli the queeny",
+    "description": "Alli is an LGBT Stan.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "bald",
+        "eyes": "white",
+        "teeth": null,
+        "clothing": "yellow",
+        "accessories": "mask",
+        "expression": null,
+        "strength": "powerful",
+        "weakness": null
+    },
+    "uuid": "a57ecda4-a26f-4e97-a757-e1800af39aab",
+    "hash": "ff88dab09f26251644d9599201bf9c34172986325238b53d89e364cb51a284d5",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

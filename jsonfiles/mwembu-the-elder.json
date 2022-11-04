@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 326,
+    "filename": "mwembu-the-elder",
+    "name": "mwembu the elder",
+    "description": "Mwembu is old but not so old and yellow is his favorite color.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "bald",
+        "eyes": "black",
+        "teeth": null,
+        "clothing": "dark ankara",
+        "accessories": null,
+        "expression": "plain",
+        "strength": "fulfilled",
+        "weakness": "angry"
+    },
+    "uuid": "36181230-6ac9-417f-af5c-23bdd2c25ecb",
+    "hash": "d51a4b6b1d6f7aff123a4241502abd2a434a864c2c9cf90343e5ee313156bebb",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

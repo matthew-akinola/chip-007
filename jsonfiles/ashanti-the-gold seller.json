@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 398,
+    "filename": "ashanti-the-gold seller",
+    "name": "ashanti the gold seller",
+    "description": "Ashanti is a well known gold trader whose trinkets are one of a kind.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "brown curly bun",
+        "eyes": "deep brown",
+        "teeth": null,
+        "clothing": "multicoloured kento",
+        "accessories": "pipe",
+        "expression": "amused",
+        "strength": "lovefist",
+        "weakness": "easily deceived"
+    },
+    "uuid": "80b51092-3fbc-4d0c-8518-fc461ccb6c80",
+    "hash": "9f593cfe7df98b022403caf93f60b1ecfcaf40442438ae16132586f992ba293f",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

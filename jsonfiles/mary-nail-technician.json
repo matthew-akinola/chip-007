@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 266,
+    "filename": "mary-nail-technician",
+    "name": "mary nail technician",
+    "description": "Mary makes magic with her press-on nails.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "red",
+        "eyes": "grey",
+        "teeth": null,
+        "clothing": "multicolour ankara",
+        "accessories": null,
+        "expression": null,
+        "strength": "hustler",
+        "weakness": "uncoordinated"
+    },
+    "uuid": "17ea9c3b-c90f-4023-84d6-d563c098b030",
+    "hash": "8a70f3b68258bc2820789be61018a3d4ae2f63a15e56789a9641da9bc9b2201e",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

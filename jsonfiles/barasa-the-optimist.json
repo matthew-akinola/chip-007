@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 325,
+    "filename": "barasa-the-optimist",
+    "name": "barasa the optimist",
+    "description": "Barasa looks up to the sky and makes a wish.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "bald",
+        "eyes": "blue",
+        "teeth": null,
+        "clothing": "brown ankara",
+        "accessories": null,
+        "expression": "awake",
+        "strength": "strong willed",
+        "weakness": "immoral"
+    },
+    "uuid": "2da4bef4-38cc-4414-99ad-7361fac04b2b",
+    "hash": "55dca0c2704cf851e0ce247aa59bc647033fdfe9622bed0f34bc17b38e406b85",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

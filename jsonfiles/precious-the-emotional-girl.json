@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 136,
+    "filename": "precious-the-emotional-girl",
+    "name": "precious the emotional girl",
+    "description": "Precious is soft hearted and sensitive.",
+    "gender": "Female",
+    "attributes": {
+        "hair": null,
+        "eyes": "white",
+        "teeth": "white",
+        "clothing": "yellow and blue",
+        "accessories": "cap",
+        "expression": "angry",
+        "strength": "strong",
+        "weakness": null
+    },
+    "uuid": "b6a41ff1-51ce-42f7-9933-85d0a22ced68",
+    "hash": "971a6896184f7f8b4a40cd61aa8789fb40d7c727e4925503f1de3c2cd7712c1f",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

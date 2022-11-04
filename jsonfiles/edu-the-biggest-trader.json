@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 129,
+    "filename": "edu-the-biggest-trader",
+    "name": "edu the biggest trader",
+    "description": "Edu is the biggest merchant in west coast.",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": "blue",
+        "teeth": "closed",
+        "clothing": "black and yellow collar native wear",
+        "accessories": "cap",
+        "expression": "happy",
+        "strength": "strong",
+        "weakness": "impatience"
+    },
+    "uuid": "48d1de5f-5f3f-46aa-b2fd-68420a8e802b",
+    "hash": "36dd8e5f53348f6eff0d4f27164b125e0a9dacc9d27b15218d79d4ac5c70946b",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 110,
+    "filename": "fayo-the-yorubademon",
+    "name": "fayo the yorubademon",
+    "description": "Fayo is a yoruba demon with excellent communication skills.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "bald",
+        "eyes": "opened",
+        "teeth": null,
+        "clothing": "africa print",
+        "accessories": "mask",
+        "expression": null,
+        "strength": "determined",
+        "weakness": "steals"
+    },
+    "uuid": "e270e278-a9b5-408d-b527-d518239a997b",
+    "hash": "ea09a52ac1c56a9a612be5c3cf09b9b6cdf23d7c7712018cd307c82c6aaf3655",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

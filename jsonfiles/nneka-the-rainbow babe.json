@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 362,
+    "filename": "nneka-the-rainbow babe",
+    "name": "nneka the rainbow babe",
+    "description": "Nneka; the happy rainbow babe with the vibes.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "pink",
+        "eyes": null,
+        "teeth": null,
+        "clothing": "blue and black bichrome",
+        "accessories": "gold glasses",
+        "expression": null,
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "e7e20ab8-03e0-4e0a-80aa-6e193f84426e",
+    "hash": "b7950bd7da663a34d7d9d61af7277dddf6dfa9abef60010e25c4dedf6df0bd16",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

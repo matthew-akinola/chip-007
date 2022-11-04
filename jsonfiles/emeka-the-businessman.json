@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 10,
+    "filename": "emeka-the-businessman",
+    "name": "emeka the businessman",
+    "description": "Emeka only cares about containers. No time to waste.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "bald",
+        "eyes": "white",
+        "teeth": null,
+        "clothing": "orange",
+        "accessories": "mask",
+        "expression": null,
+        "strength": "hard worker",
+        "weakness": null
+    },
+    "uuid": "9b3d75da-4887-4089-aee4-50de3954fdc9",
+    "hash": "09ed9af87e3ee545bc959f51067cc1a46de21f5f454e37710f93273dbcb28a1e",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

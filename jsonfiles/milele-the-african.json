@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 329,
+    "filename": "milele-the-african",
+    "name": "milele the african",
+    "description": "Milele wears a dress with a nice african print in orange.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "bald",
+        "eyes": "blue",
+        "teeth": null,
+        "clothing": "orange ankara",
+        "accessories": null,
+        "expression": "timid",
+        "strength": "leader",
+        "weakness": "failure"
+    },
+    "uuid": "644b0259-d75c-456d-934c-ce7c052bad3a",
+    "hash": "2a8101348937e9980b1b56660a4ed8eb6903211822be1d42bbae30817e751ed3",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

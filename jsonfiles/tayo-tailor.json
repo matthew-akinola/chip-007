@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 83,
+    "filename": "tayo-tailor",
+    "name": "tayo tailor",
+    "description": "A professional fashion designer.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "black",
+        "eyes": "black",
+        "teeth": null,
+        "clothing": "orange shirt",
+        "accessories": "glasses",
+        "expression": "inquisitive",
+        "strength": "creativity",
+        "weakness": "opinionated"
+    },
+    "uuid": "70828783-ac38-48cf-b966-cfebc92ebd86",
+    "hash": "5294bf7ba3dfc93e713a3337ddec1b9cef2beddd39e1fba619bd1c77ff3e3d96",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

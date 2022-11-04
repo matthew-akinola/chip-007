@@ -1,0 +1,23 @@
+{
+    "team names": "",
+    "series number": 176,
+    "filename": "friday-the-bigsboy",
+    "name": "friday the bigsboy",
+    "description": "Friday always live up to his name. Every Friday is for the party.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "orange afro",
+        "eyes": "black iris",
+        "skin color": "brown",
+        "teeth": null,
+        "clothing": "aso oke",
+        "expression": "unconcerned",
+        "accessories": "cigrette in mouth",
+        "strength": "money in pocket",
+        "weakness": "sense of responsibility"
+    },
+    "uuid": "05ec3aae-7da8-4125-93fb-6fc544e5bc61",
+    "hash": "7aa29b5c021123bb76e124784c4a4e70e57426ddd94bb8c1a366f30dd082c6f5",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

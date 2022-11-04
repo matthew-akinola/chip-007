@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 119,
+    "filename": "kayode-the-baller",
+    "name": "kayode the baller",
+    "description": "Kayode loves life and lives it.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "bald",
+        "eyes": "wide opened",
+        "teeth": null,
+        "clothing": "yellow on jeans",
+        "accessories": null,
+        "expression": null,
+        "strength": "swaggy",
+        "weakness": "loves women"
+    },
+    "uuid": "fe17bfdc-c251-4654-8313-1ab793e11748",
+    "hash": "15be3b0af57dc8a81626c2866cd381d5b3b86fc00b4db48b9b77f9fde36efa57",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

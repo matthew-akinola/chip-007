@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 69,
+    "filename": "ghost-of-power",
+    "name": "ghost of power",
+    "description": "A woman; stronger than ten men combined.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "black tied with scalf",
+        "eyes": null,
+        "teeth": null,
+        "clothing": "iqoyi",
+        "accessories": "sunglasses and pipe",
+        "espression": "ruthless",
+        "strength": "badass",
+        "weakness": "cancer"
+    },
+    "uuid": "29c764ca-59d3-11ed-9b6a-0242ac120002",
+    "hash": "2668c4a54fe4f28857c21faed9951c3b3bf556be9248c7dfc5ba7275bf19bbaf",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

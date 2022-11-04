@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 226,
+    "filename": "novice-joane",
+    "name": "novice joane",
+    "description": "A princess worried about finding true love.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "pumpkin",
+        "eyes": "blue",
+        "teeth": null,
+        "clothing": "kente",
+        "accessories": null,
+        "expression": "worried",
+        "strength": "diligent",
+        "weakness": "easily initimidated"
+    },
+    "uuid": "a5d49163-41b1-43fe-ad7f-0c78ef530b1a",
+    "hash": "2084abd0a76fabbc4dc59776c005f8f0339b9a0d2bbeedf53cabec468686cfe0",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

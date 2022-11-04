@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 202,
+    "filename": "blind-tonia",
+    "name": "blind tonia",
+    "description": "A girl that lost one of her eyes in a street fight.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "brown",
+        "eyes": "one",
+        "teeth": null,
+        "clothing": "blouse",
+        "accessories": null,
+        "expression": null,
+        "strength": "smiling",
+        "weakness": null
+    },
+    "uuid": "4a5f4c6d-d0dd-4b71-b095-86ef11910962",
+    "hash": "9582f8b5f194d7151e48799e59a7e7b81ac0fbfe5d83e02a317b01631cae7c6e",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

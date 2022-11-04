@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 364,
+    "filename": "bekeh-the-party animal",
+    "name": "bekeh the party animal",
+    "description": "Baby Bekeh is life of the party that goes home with your charger.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "dark brown",
+        "eyes": null,
+        "teeth": null,
+        "clothing": "left one-shoulder wax print",
+        "accessories": "gold glasses",
+        "expression": null,
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "f0558235-3043-46e5-b26c-5bde83cc67fb",
+    "hash": "60c4077805077a76669a03c989d7b6575c3912189d225fdde92d1fb39249baa8",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

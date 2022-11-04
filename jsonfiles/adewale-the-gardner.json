@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 388,
+    "filename": "adewale-the-gardner",
+    "name": "adewale the gardner",
+    "description": "Adewale is a hardworking and resourceful lover of plants.",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": "pitch black",
+        "teeth": null,
+        "clothing": "yellowish blue native",
+        "accessories": null,
+        "expression": "mysterious",
+        "strength": "oro ase",
+        "weakness": null
+    },
+    "uuid": "c447c120-830e-4543-9cb3-5917ba36bce8",
+    "hash": "770d5f8d694daafbdf1cd9eed7f1e7b9a4b4295a928fa028ef4435d7667360a5",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

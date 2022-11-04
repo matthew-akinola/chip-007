@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 45,
+    "filename": "jessie-lord-rings",
+    "name": "jessie lord rings",
+    "description": "She loves her  (precious) jewelry.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "blue",
+        "eyes": "brown",
+        "teeth": null,
+        "clothing": "satin",
+        "accessories": null,
+        "expression": "smiling",
+        "strength": "kind",
+        "weakness": "shy"
+    },
+    "uuid": "caacabe1-0abc-43af-92e2-2231248bff93",
+    "hash": "a338f75f3b043b2416358063bfe21dbbd10a4b4365df2a3f30a337a2af586d63",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

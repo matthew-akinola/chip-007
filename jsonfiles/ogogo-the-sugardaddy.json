@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 346,
+    "filename": "ogogo-the-sugardaddy",
+    "name": "ogogo the sugardaddy",
+    "description": "A rich oil magnate who loves to solve young women's problems with his millions.",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": "cat eyes",
+        "teeth": null,
+        "clothing": "purple danshiki",
+        "accessories": "nose mask",
+        "expression": "straight face",
+        "strength": "brave",
+        "weakness": "too selfless"
+    },
+    "uuid": "aa575f30-04ad-45f9-a798-199465117793",
+    "hash": "bcfde2ac52bd72a564f79ee40eb4447a6274ea6ada5abbff14864caa5b208048",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

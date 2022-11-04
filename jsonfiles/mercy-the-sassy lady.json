@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 38,
+    "filename": "mercy-the-sassy lady",
+    "name": "mercy the sassy lady",
+    "description": "Mercy is a confident woman and never hesistate to show it.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "brown",
+        "eyes": null,
+        "teeth": null,
+        "clothing": "ankara",
+        "accessories": "glasses",
+        "expression": "sassy",
+        "strenght": "creative",
+        "weakness": "sensitive"
+    },
+    "uuid": "7a3c70ac-927f-4a63-a3df-ab86dd27cd0f",
+    "hash": "b4464ec5a57b84c1c5cedc3751979ff475e6fe0556797997fb77560d2c92f6a0",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

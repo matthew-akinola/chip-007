@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 390,
+    "filename": "abang-the-wordsmith",
+    "name": "abang the wordsmith",
+    "description": "Abang is a storyteller and connoisseur of words.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "shiny bald",
+        "eyes": null,
+        "teeth": null,
+        "clothing": "whitish blue ankara",
+        "accessories": null,
+        "expression": "amused",
+        "strength": "ironclaw",
+        "weakness": "wood"
+    },
+    "uuid": "94c607b3-791e-40df-bd93-50926f094143",
+    "hash": "b367f9bbd7a81d261d9e0a8e6971b023d257b289888eaf800e50e6731705314b",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

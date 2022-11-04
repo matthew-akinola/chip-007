@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 130,
+    "filename": "james-importer-and-exporter",
+    "name": "james importer and exporter",
+    "description": "James is the sole importer and exporter of spare parts.",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": "blue",
+        "teeth": null,
+        "clothing": "purple and yellow",
+        "accessories": "cap",
+        "expression": "happy",
+        "strength": "strong",
+        "weakness": "pride"
+    },
+    "uuid": "22541251-022f-480c-8c1e-cf754dce16d6",
+    "hash": "d7466e51643776ef33616a92f23eb989e700ef744aec4e484a39b5ce4b65a6a7",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

@@ -43,7 +43,6 @@ def csv_converter():
                 # delete unneeded attributes or data from the loop before appending to the data list.
                 row['attributes'] = attributes
                 del row['format']
-                del row['series_total']
                 del row['sensitive_content']
 
                 data.append(row)

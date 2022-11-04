@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 160,
+    "filename": "lumusi-pro-technician",
+    "name": "lumusi pro technician",
+    "description": "The electrician well known for wiring burnt buildings.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "red",
+        "eyes": null,
+        "teeth": null,
+        "clothing": "white top with blue overalls",
+        "accessories": null,
+        "expression": "high",
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "b07676a6-c611-410d-8426-46c9c525189a",
+    "hash": "98af520ae676d5a7653aec1f0f90e83163f5db1444549e36e19e11894f364931",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

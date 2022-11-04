@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 87,
+    "filename": "ozo-fineboi",
+    "name": "ozo fineboi",
+    "description": "A charming person.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "brown",
+        "eyes": "blue",
+        "teeth": null,
+        "clothing": "aztec print blouse",
+        "accessories": "choker and hookah",
+        "expression": "blank",
+        "strength": "charismatic",
+        "weakness": "proud"
+    },
+    "uuid": "f2286b4d-fae6-48cb-a686-badec16da1d8",
+    "hash": "15d3d2d7abacbd366d7b688278bd6033099f7907dd051b11d65554bd39b6fcc2",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

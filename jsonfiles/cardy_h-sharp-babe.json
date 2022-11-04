@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 183,
+    "filename": "cardy_h-sharp-babe",
+    "name": "cardy h sharp babe",
+    "description": "Cardy is the sharpest amongst her friends.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "two brown bun",
+        "eyes": "blue",
+        "teeth": null,
+        "clothing": "aso-oke",
+        "accessories": null,
+        "expression": "blank",
+        "strength": "free spirit",
+        "weakness": "misleading"
+    },
+    "uuid": "14792397-de9d-4f18-b46c-f168605d09e8",
+    "hash": "580390968e781eb187cdd7041520c92c7d7c459738a8d5cf6a43f86b140a26fa",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

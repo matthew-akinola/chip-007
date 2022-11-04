@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 94,
+    "filename": "omo-pastor",
+    "name": "omo pastor",
+    "description": "A devout christian.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "brown",
+        "eyes": "black",
+        "teeth": null,
+        "clothing": "spaghetti strap ankara top",
+        "accessories": "green earrings and green necklace",
+        "expression": "happy",
+        "strength": "happiness",
+        "weakness": "too emotional"
+    },
+    "uuid": "49e09559-61a6-41ff-811a-272721a7475c",
+    "hash": "001b54dc6971275ac6c3fd2e69762667ef59d140109f95d0d4d8511e06929265",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

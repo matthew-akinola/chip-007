@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 24,
+    "filename": "charles-the-exporter",
+    "name": "charles the exporter",
+    "description": "Charles a business man an importer and exporter never to be caught idle.",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": "grey",
+        "teeth": null,
+        "clothing": "orange and blue",
+        "accessories": "okpu ozo cap",
+        "expression": "happy",
+        "strength": "influential",
+        "weakness": "incessant"
+    },
+    "uuid": "09395e76-19ed-4852-8748-795ee7496a8e",
+    "hash": "03b9dc99e12aaef974e8e3b1aa8306c00b87f2a12c33f35bcd04ce7429e2dca3",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

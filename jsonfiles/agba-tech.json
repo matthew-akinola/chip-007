@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 236,
+    "filename": "agba-tech",
+    "name": "agba tech",
+    "description": "A tech bro that loves to party but has bad communication skill.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "black",
+        "eyes": "blue",
+        "teeth": null,
+        "clothing": "ankara",
+        "accessories": null,
+        "expression": "proud",
+        "strength": "smart",
+        "weakness": null
+    },
+    "uuid": "403f28a0-6aa7-4f80-997f-b0982c169baa",
+    "hash": "363f2711cfb2e21b0d8f5506a9802a45fb373ed89b502d102a1f3544f7b34e5d",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

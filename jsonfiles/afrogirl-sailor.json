@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 200,
+    "filename": "afrogirl-sailor",
+    "name": "afrogirl sailor",
+    "description": "She loves water and sails the ocean yearly.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "bald",
+        "eyes": null,
+        "teeth": null,
+        "clothing": null,
+        "accessories": null,
+        "expression": null,
+        "strength": "height",
+        "weakness": "pride"
+    },
+    "uuid": "3973c584-f922-4b80-abb7-13b66d9518fa",
+    "hash": "04a0ee257a18897777c29befeb38ccb0aa27557cefdb3bf119250bdae1041ad8",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

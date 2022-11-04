@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 219,
+    "filename": "vampire-girl",
+    "name": "vampire girl",
+    "description": "She dresses up as a vampire every haloween.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "puff-puff",
+        "eyes": "blue",
+        "teeth": "two",
+        "clothing": "blouse",
+        "accessories": null,
+        "expression": "bite",
+        "strength": "biting",
+        "weakness": null
+    },
+    "uuid": "3bba4477-d84a-440f-af66-12690ea8b2e4",
+    "hash": "cfd594a15b9d2e1ce0338fcdf238ddd6f7f41d53ecfbf31f98357e2510caa397",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

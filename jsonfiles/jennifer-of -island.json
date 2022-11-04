@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 197,
+    "filename": "jennifer-of -island",
+    "name": "jennifer of island",
+    "description": "She loves travelling; she is in maldives this year.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "bald",
+        "eyes": null,
+        "teeth": null,
+        "clothing": null,
+        "accessories": null,
+        "expression": null,
+        "strength": "strong",
+        "weakness": "lateness"
+    },
+    "uuid": "37552438-fdda-483a-a1a4-bdfa6ddd3ec2",
+    "hash": "d1c1dec7364be29d2de9dfb80e4c24965d15373ca9aa0fe30129c511045ee740",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

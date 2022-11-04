@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 270,
+    "filename": "obinna-the-musician",
+    "name": "obinna the musician",
+    "description": "Obinna might never be an a-list artist.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "black",
+        "eyes": "black with glasses",
+        "teeth": null,
+        "clothing": "red v-neck ankara",
+        "accessories": null,
+        "expression": null,
+        "strength": "delegation",
+        "weakness": "lack of experience"
+    },
+    "uuid": "afdb0299-327c-46b2-9262-faf90f0fcd12",
+    "hash": "468e608a6381203ed1f595a639430fdc51581e5008e0f39c92935c205cabca63",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

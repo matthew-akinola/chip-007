@@ -1,0 +1,22 @@
+{
+    "team names": "TEAM SCALE",
+    "series number": 301,
+    "filename": "wendy-the -banker",
+    "name": "wendy the  banker",
+    "description": "Wendy loves working in the bank, as she gets to meet different people.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "dark red",
+        "eyes": "blue",
+        "teeth": null,
+        "clothing": "blue and yellow ankara",
+        "accessories": null,
+        "expression": "shocked",
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "1d51d23f-912a-4616-b265-2a4fd8f48260",
+    "hash": "6db16f71385dc07a7a97102e7859c621966461dc4581a4849ab5ede1df8cff2a",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

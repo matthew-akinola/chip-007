@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 67,
+    "filename": "mandla-of-zulu",
+    "name": "mandla of zulu",
+    "description": "A simple and introverted guy who keeps to himself.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "bald",
+        "eyes": "opened",
+        "teeth": null,
+        "clothing": "eshowe",
+        "accessories": "nose mask",
+        "expression": "irritated",
+        "strength": "strong willed",
+        "weakness": "relationship"
+    },
+    "uuid": "d04553b2-59d7-11ed-9b6a-0242ac120002",
+    "hash": "f92f90314e2bde4a22c184f117b5d5ef634264d24dbc6e5025febaf38019a21a",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

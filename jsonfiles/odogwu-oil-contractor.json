@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 267,
+    "filename": "odogwu-oil-contractor",
+    "name": "odogwu oil contractor",
+    "description": "From malaysia to kaduna, odogwu's oil is known.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "black",
+        "eyes": "black with glasses",
+        "teeth": null,
+        "clothing": "brown and gold guniea",
+        "accessories": null,
+        "expression": null,
+        "strength": "hustler",
+        "weakness": "taking criticism"
+    },
+    "uuid": "b503bbfb-f972-4d4a-9352-e9dfe6671d36",
+    "hash": "84d885537b576fe30cea2ee51d0b67bc3a7dc7d81018893a0ef4d5ffe4b0e340",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

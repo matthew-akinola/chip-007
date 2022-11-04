@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 223,
+    "filename": "wazo-partystopper",
+    "name": "wazo partystopper",
+    "description": "A Nigerian aunty that loves to attend owambe parties.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "black",
+        "eyes": "white",
+        "teeth": null,
+        "clothing": "aso oke",
+        "accessories": null,
+        "expression": "proud",
+        "strength": "energetic",
+        "weakness": null
+    },
+    "uuid": "77237cce-bae0-4d60-adad-27055f0eed39",
+    "hash": "8922b2336e7906074ed03655ca3744141a0ee9d420aed0a1b982621826201885",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

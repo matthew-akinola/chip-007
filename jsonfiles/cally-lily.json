@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 73,
+    "filename": "cally-lily",
+    "name": "cally lily",
+    "description": "A man who is a breathe of fresh air.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "male",
+        "eyes": "opened",
+        "teeth": null,
+        "clothing": "overall",
+        "accessories": "nose mask",
+        "expression": "confused",
+        "strength": "calm",
+        "weakness": "sun"
+    },
+    "uuid": "82bba87c-59d1-11ed-9b6a-0242ac120002",
+    "hash": "2c054aea1e414a5f0ece0cb5813aa41c4906c51639fbd3a0ecb949a60dc0443a",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

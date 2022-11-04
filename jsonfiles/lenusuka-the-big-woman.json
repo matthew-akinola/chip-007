@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 142,
+    "filename": "lenusuka-the-big-woman",
+    "name": "lenusuka the big woman",
+    "description": "The lady that loves spending money and buying everybody asaobi.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "purple",
+        "eyes": null,
+        "teeth": null,
+        "clothing": "black and blue ankara",
+        "accessories": null,
+        "expression": "serious",
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "e564a43a-ef77-487d-a88e-749d20a09fd8",
+    "hash": "7128944c73378f018e1b9aff78071ddc1d06d6c73c27cb2b15b63dbaabc61a0e",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

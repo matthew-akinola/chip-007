@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 306,
+    "filename": "muna-the -block sister",
+    "name": "muna the block sister",
+    "description": "Muna loves to tell everyone in the block about her younger escapades",
+    "gender": "Female",
+    "attributes": {
+        "hair": "black",
+        "eyes": "blue",
+        "teeth": null,
+        "clothing": "wolf skin ankara",
+        "accessories": "headgear",
+        "expression": "shocked",
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "86decb02-71e9-4826-bfdd-611db2f9d95e",
+    "hash": "a6f04e76658ee41928fce9a8b2c7bb19310f6ef2807b462279fe36773bed4783",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

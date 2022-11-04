@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 320,
+    "filename": "amaka-the-tailor",
+    "name": "amaka the tailor",
+    "description": "She sews the most beautiful dress in the hood.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "grey",
+        "eyes": "covered eyes",
+        "teeth": null,
+        "clothing": "black dress",
+        "accessories": "yellow glasses",
+        "expression": "happy",
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "df0f57cd-1b63-4345-a5e3-1ee60d81d98c",
+    "hash": "5156663a076c1d698859ccedabf5e955985ea7ad928f5a2729458ad079cefc1c",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

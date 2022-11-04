@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 355,
+    "filename": "ola-the-hardguy",
+    "name": "ola the hardguy",
+    "description": "Ola may be feared but he is such a coolheaded champ.",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": "closed eyes",
+        "teeth": null,
+        "clothing": "purple buba",
+        "accessories": null,
+        "expression": "sick",
+        "strength": "quick recovery power",
+        "weaknes": "get ill frequently"
+    },
+    "uuid": "a814fc77-bdfa-4e50-8ba8-3e4e4bcfb3c0",
+    "hash": "bce36885dd1b216bf87790e5a8f3cc61ff91994cfe506e1ea5e6af8b478e33d4",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

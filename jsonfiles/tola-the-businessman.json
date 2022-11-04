@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 342,
+    "filename": "tola-the-businessman",
+    "name": "tola the businessman",
+    "description": "Tola loves business and owns several shops in Idumota.",
+    "gender": "Female",
+    "attributes": {
+        "hair": null,
+        "eyes": "midnightblack",
+        "teeth": null,
+        "clothing": "purple blowse",
+        "accessories": "mask",
+        "expression": "furious",
+        "strength": "powerful",
+        "weakness": "love"
+    },
+    "uuid": "1c5d5a6b-cf04-4bf9-978e-22a7e9bc5819",
+    "hash": "36582c0fc30b748b2e4324f3f77d6019ba6364de1079edd3480855d97bb169f3",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

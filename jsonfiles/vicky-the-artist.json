@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 199,
+    "filename": "vicky-the-artist",
+    "name": "vicky the artist",
+    "description": "An artist; she brings drawings to life.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "bald",
+        "eyes": null,
+        "teeth": null,
+        "clothing": null,
+        "accessories": null,
+        "expression": null,
+        "strength": "strong willed",
+        "weakness": "crying"
+    },
+    "uuid": "7247e175-bca1-4cd8-a8bb-b97cad9781a7",
+    "hash": "1ae699ae4a6591fa88e5359940220ea91c3c3ef0fd6d37a0d676b91dc252ead5",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

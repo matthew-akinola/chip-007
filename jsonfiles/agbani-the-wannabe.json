@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 308,
+    "filename": "agbani-the-wannabe",
+    "name": "agbani the wannabe",
+    "description": "Agbani loves to shop antique decorations for her mansion in Idi-Iroko.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "purple hair",
+        "eyes": "covered eyes",
+        "teeth": null,
+        "clothing": "blue one-armed dress",
+        "accessories": null,
+        "expression": "happy",
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "baab2dff-73fc-44f8-9c1b-3473018a1e32",
+    "hash": "6faf874f93a67684f56e19cf1cf0c954dcc58c644e635e863207b44696456c13",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

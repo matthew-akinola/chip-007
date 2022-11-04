@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 153,
+    "filename": "kiokoli-the-slowrunner",
+    "name": "kiokoli the slowrunner",
+    "description": "Always running in every race but never making it to the first 5.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "black",
+        "eyes": null,
+        "teeth": null,
+        "clothing": "maroon agbada with yellow accents",
+        "accessories": null,
+        "expression": "clueless",
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "d7027b6c-ae53-4cce-b80d-67aeb7ceb1ba",
+    "hash": "2d7011ecb8a5c7d005ea806b01454c7a6a691f298ccaa68a632ce373670110d4",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

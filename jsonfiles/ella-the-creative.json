@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 394,
+    "filename": "ella-the-creative",
+    "name": "elle the creative",
+    "description": "Ella is a smart, resourceful and an intellligent copywriter in a marketing firm.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "light brown cornrows",
+        "eyes": null,
+        "teeth": null,
+        "clothing": "patterned isiagu",
+        "accessories": "glasses",
+        "expression": "blank",
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "3b795bad-91b4-4d0e-8ed8-bccbb226fc55",
+    "hash": "20dd22f8eb95ba1a7ef9bd773cf4b2655e0ecd22976a58aeade8306470ec7ac6",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

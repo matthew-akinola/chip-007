@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 291,
+    "filename": "james-the-musician",
+    "name": "james the musician",
+    "description": "A Nigerian based musician who host shows",
+    "gender": "Male",
+    "attributes": {
+        "hair": "brown",
+        "eyes": "closed",
+        "teeth": "white",
+        "clothing": "akan",
+        "accessories": null,
+        "expression": "happy",
+        "strength": "good voice",
+        "weakness": "womanizer"
+    },
+    "uuid": "0d4ad447-3836-47cd-8387-066b200cda01",
+    "hash": "c7acb4af0ed60fee61968e5a6ce9d3e3dd037f362f93e4c9efedef737a22c08b",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

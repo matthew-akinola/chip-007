@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 335,
+    "filename": "kenyanese-the-priest",
+    "name": "kenyanese the priest",
+    "description": "Kenyaanese is a masked up man with a white cloth as his signature attire. ",
+    "gender": "Male",
+    "attributes": {
+        "hair": "bald",
+        "eyes": "white",
+        "teeth": null,
+        "clothing": "white jean shirt",
+        "accessories": null,
+        "expression": "calculative",
+        "strength": "kind",
+        "weakness": "takes things personally"
+    },
+    "uuid": "0706c338-42eb-4d26-84ea-c24b39628200",
+    "hash": "b5237f4e7185aca46b5eb332160dbb782faa4b8f9f486fa9950882b3acf5fed9",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

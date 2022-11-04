@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 336,
+    "filename": "nyimbo-the-singer",
+    "name": "nyimbo the singer",
+    "description": "Nimbo has his glasses on and a pot with hot porridge for the night",
+    "gender": "Female",
+    "attributes": {
+        "hair": "dreadlocks",
+        "eyes": "glassed up",
+        "teeth": null,
+        "clothing": "off shoulder ankara",
+        "accessories": "a pot",
+        "expression": "free spirited",
+        "strength": "fair",
+        "weakness": "impatient"
+    },
+    "uuid": "d05af807-b3e9-4ad3-8df1-b7864d2daa33",
+    "hash": "87b9505096000cfef4cc2143237696ff0fcf8dd6fbfd1ff51fbf3bab8532f5d8",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

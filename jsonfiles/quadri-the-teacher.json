@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 108,
+    "filename": "quadri-the-teacher",
+    "name": "quadri the teacher",
+    "description": "Quadri is a devoted teacher that teaches mathematics.",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": "opened",
+        "teeth": null,
+        "clothing": "yellow on blue jean",
+        "accessories": "nose mask",
+        "expression": null,
+        "strength": "teaching",
+        "weakness": "talking"
+    },
+    "uuid": "d96a93e7-17a4-4efe-b09b-02185cc81ce8",
+    "hash": "ee4fdb84b8980a5e7f013133162e58d323304d8b9a2a733f58138f891c75d8a6",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

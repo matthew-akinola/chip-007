@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 314,
+    "filename": "omoyene-the-weirdo",
+    "name": "omoyene the weirdo",
+    "description": "Omoyene likes to murmur to herself and talks about seeing ghosts.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "brown",
+        "eyes": "brown",
+        "teeth": null,
+        "clothing": "yellow ankara",
+        "accessories": null,
+        "expression": "calm",
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "f937a43e-4068-4239-81fc-2d38b805bb24",
+    "hash": "6d2d131638d71a7660a0d758495e574d655b0f7e76a73763b2787eb17a1904a9",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

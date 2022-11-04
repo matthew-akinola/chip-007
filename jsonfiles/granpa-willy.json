@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 209,
+    "filename": "granpa-willy",
+    "name": "granpa willy",
+    "description": "A grandfather that drinks beer and reads newspaper all day.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "white",
+        "eyes": "black",
+        "teeth": null,
+        "clothing": "shirt",
+        "accessories": "fashion",
+        "expression": "smiling",
+        "strength": "reading",
+        "weakness": "drinking"
+    },
+    "uuid": "facf7001-d028-4e00-bffc-ed1f7c005ecc",
+    "hash": "e8e1172a63c1e1bab9827d43d85ca290a4f252b83ed55ed6753f562d02790639",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

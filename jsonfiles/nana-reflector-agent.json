@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 58,
+    "filename": "nana-reflector-agent",
+    "name": "nana reflector agent",
+    "description": "She loves her chrome fashion style.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "pink",
+        "eyes": "blue",
+        "teeth": null,
+        "clothing": "ankara",
+        "accessories": null,
+        "expression": "smiling",
+        "strength": "brave",
+        "weakness": "shy"
+    },
+    "uuid": "63bda633-bfca-4b28-823f-7772936b4103",
+    "hash": "aa69fa41d960d335e2312c0a618490931e264c2b3ddde1a058c705c068206f50",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

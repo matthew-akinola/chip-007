@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 30,
+    "filename": "femi-the-badguy",
+    "name": "femi the badguy",
+    "description": "Femi is one of the fliest guys in Lagos.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "orange",
+        "eyes": "black",
+        "teeth": null,
+        "clothing": "white t-shirt and blue dongaris",
+        "accessories": "smoking pipe",
+        "expression": "unbothered",
+        "strength": "fearless",
+        "weakness": "intolerance"
+    },
+    "uuid": "e493e3fb-a8a0-455a-854f-0f6474bbc69f",
+    "hash": "c88981e8fe36334518263c8f3977d17194a22172d72290497a723c9fd36c86c8",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

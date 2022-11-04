@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 345,
+    "filename": "odunsi-the-egbonadugbo",
+    "name": "odunsi the egbonadugbo",
+    "description": "Odunsi loves to advise and people in the community rely on him.",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": "dark brown",
+        "teeth": null,
+        "clothing": "one shoulder gown",
+        "accessories": null,
+        "expression": null,
+        "strength": "elegant",
+        "weakness": "easily depressed"
+    },
+    "uuid": "2912ab8b-5875-4277-a5c2-a0209aee90ae",
+    "hash": "f510198e2f3c3256d96213bf66d7a11a0c85f112f310dc983e6f495711b9352d",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

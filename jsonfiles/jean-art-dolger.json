@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 43,
+    "filename": "jean-art-dolger",
+    "name": "jean art dolger",
+    "description": "Loves collecting art for charity.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "blue",
+        "eyes": "brown",
+        "teeth": null,
+        "clothing": "ankara",
+        "accessories": null,
+        "expression": "smiling",
+        "strength": "creative",
+        "weakness": "food"
+    },
+    "uuid": "5e1105d9-e485-462d-a5bf-1eb931976b13",
+    "hash": "b3a65b59e5d993dcfa8c30eb2f13586f75de5b1c9f7655253bd5926deceae4b6",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

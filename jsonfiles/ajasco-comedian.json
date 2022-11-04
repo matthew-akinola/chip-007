@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 84,
+    "filename": "ajasco-comedian",
+    "name": "ajasco comedian",
+    "description": "A newbie comedian.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "black",
+        "eyes": "black",
+        "teeth": null,
+        "clothing": "green shirt",
+        "accessories": "glasses",
+        "expression": "bold",
+        "strength": "optimistic",
+        "weakness": "unobservant"
+    },
+    "uuid": "8bebdb3a-f0a8-47ba-892f-39aa275fbd0d",
+    "hash": "e4df588233127cc35bfb4570fafb2f4aca8b2f3fd43ab635da761269473a610b",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 302,
+    "filename": "uduak-the -dark horse",
+    "name": "uduak the dark horse",
+    "description": "Uduak looks innocent and has the whole apartment bugged",
+    "gender": "Female",
+    "attributes": {
+        "hair": "brown",
+        "eyes": "blue",
+        "teeth": null,
+        "clothing": "multi-colored ankara",
+        "accessories": null,
+        "expression": "witty",
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "4fc5ee8f-6b10-4a06-a799-317c9a8344e2",
+    "hash": "8af3513d391139a6016264846d63d26821290a48c203492600df4205281f8c77",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

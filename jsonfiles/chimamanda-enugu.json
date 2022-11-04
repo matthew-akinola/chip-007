@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 231,
+    "filename": "chimamanda-enugu",
+    "name": "chimamanda enugu",
+    "description": "A young lady born during the war.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "brown",
+        "eyes": "black",
+        "teeth": null,
+        "clothing": "ankara",
+        "accessories": null,
+        "expression": null,
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "eaad5c98-3f85-4480-9c4e-b73340cfba4f",
+    "hash": "6299722e1d04dbb2a141bc192a2762ce786f9d8afc99d9e8d3301c0bb97b78f9",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

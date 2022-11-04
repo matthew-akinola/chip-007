@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 376,
+    "filename": "addae-the-unretired",
+    "name": "addae the unretired",
+    "description": "Mummy Addae; the hot grandma that has refused to retire.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "brown",
+        "eyes": "brown",
+        "teeth": null,
+        "clothing": "danshiki",
+        "accessories": "choker necklace",
+        "expression": null,
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "ced7b53c-73de-4fc7-a652-2b17ebfe68c9",
+    "hash": "be8c2a6c4cc04f9ab402468a6557db03132f26ec30fc1a2cf75116bfa1fbd107",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

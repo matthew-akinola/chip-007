@@ -1,0 +1,22 @@
+{
+    "team names": "TEAM RULER",
+    "series number": 341,
+    "filename": "mansur-the-partyrider",
+    "name": "mansur the partyrider",
+    "description": "Mansur is the life of a party and never caught dulling.",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": "ash grey",
+        "teeth": null,
+        "clothing": "agbda",
+        "accessories": "studs",
+        "expression": "happy",
+        "strength": "intelligent",
+        "weakness": "red whine"
+    },
+    "uuid": "78db0f29-3936-4d9c-bb90-3dbf20dba2dd",
+    "hash": "689bb451969271433738980b225413912e5f806e9b04bafd7d3450dc659dc7d3",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

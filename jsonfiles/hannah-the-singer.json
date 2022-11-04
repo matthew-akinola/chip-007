@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 105,
+    "filename": "hannah-the-singer",
+    "name": "hannah the singer",
+    "description": "Hannah loves singing and belongs to choir.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "blonde",
+        "eyes": "opened",
+        "teeth": null,
+        "clothing": "flower print dress",
+        "accessories": "earrings",
+        "expression": "angry",
+        "strength": "singing",
+        "weakness": "reading"
+    },
+    "uuid": "281f5bd7-5282-458b-9811-e369980e7dee",
+    "hash": "50ae4811998aa9c2048fe0fcaecb0ad262dd4f288b664797fbb9ffbf00473f21",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

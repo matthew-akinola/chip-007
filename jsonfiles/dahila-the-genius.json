@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 195,
+    "filename": "dahila-the-genius",
+    "name": "dahila the genius",
+    "description": "The genius in the family; she always wins awards.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "bald",
+        "eyes": null,
+        "teeth": null,
+        "clothing": null,
+        "accessories": null,
+        "expression": null,
+        "strength": "activist",
+        "weakness": "irrational"
+    },
+    "uuid": "d46f7da0-73e6-4100-b9b2-6c08d5ad561a",
+    "hash": "01520e06b4ac3c95ca30a582321e9c8ea9ffcc33afd496866850957f3ecfefd5",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

@@ -1,0 +1,21 @@
+{
+    "team names": "",
+    "series number": 150,
+    "filename": "kerubo-the-igbo-smoker",
+    "name": "kerubo the igbo smoker",
+    "description": "Loves only his igbo and is happy when he finds an old blunt.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "brown",
+        "eyes": null,
+        "teeth": null,
+        "clothing": "brown shirt with dog pattern",
+        "accessories": null,
+        "expression": null,
+        "weakness": null
+    },
+    "uuid": "33ba8e73-7949-4bc7-ba27-37ee1d573946",
+    "hash": "01b17da615210d2c4a89f005204f520b8de94d3d9bee57c08005eabc04f122cc",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 147,
+    "filename": "chepkirui-mr-self-love",
+    "name": "chepkirui mr self love",
+    "description": "Likes taking care of himself and spending on himself.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "burgundy",
+        "eyes": null,
+        "teeth": null,
+        "clothing": "black and kente patterned agbada",
+        "accessories": null,
+        "expression": "sleepy",
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "1a91e778-d214-476b-a667-94e9ecb8b5ce",
+    "hash": "ecb7c8d69cdc6c5e7ffc37fdf1a35f10f14c952a33470f775ed44f775aec4ed6",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

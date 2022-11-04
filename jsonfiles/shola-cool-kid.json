@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 28,
+    "filename": "shola-cool-kid",
+    "name": "shola cool kid",
+    "description": "Shola prefers to be alone because he hates stress.",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": null,
+        "teeth": null,
+        "clothing": "yellow t-shirt and blue dongaris",
+        "accessories": "red facecap",
+        "expression": "playful",
+        "strength": "fun",
+        "weakness": "playful"
+    },
+    "uuid": "3ac5c186-bc14-4eb6-8567-cc818465a64f",
+    "hash": "69a3be9ef9b5677d78253e705da76d9a637f83d60f75e32fb2ce6064a2d58b13",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 216,
+    "filename": "sleevless-maid",
+    "name": "sleevless maid",
+    "description": "A girl that nevers wears long cloths and gets herself thrown out of churches for indecent dressing.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "white",
+        "eyes": "blue",
+        "teeth": null,
+        "clothing": "shirt",
+        "accessories": "tan",
+        "expression": null,
+        "strength": "seduction",
+        "weakness": null
+    },
+    "uuid": "1cec0f65-2ee4-41a9-a30a-1f7aa9ccd112",
+    "hash": "1cdf432f560a8048cc0b0b4e07200c68e03023fe555abaceac068e731ff34acd",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

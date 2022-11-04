@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 164,
+    "filename": "sola-the-queen",
+    "name": "sola the queen",
+    "description": "Sola is a princess as she's got the mind of a queen.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "brown long hair",
+        "eyes": null,
+        "teeth": null,
+        "clothing": "blouse top",
+        "expression": "cool",
+        "accessories": "eye glasses",
+        "strength": "Strong character",
+        "weakness": "beauty"
+    },
+    "uuid": "d5f23ad3-832a-4d3e-814e-e23f466d18a4",
+    "hash": "b2f58aca02169b7a279174dc4f16a7c941063cc4a3e6016ca14fcc75ffb7577a",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

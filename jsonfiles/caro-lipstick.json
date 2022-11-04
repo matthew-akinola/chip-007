@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 204,
+    "filename": "caro-lipstick",
+    "name": "caro lipstick",
+    "description": "A girl that puts on lipstick always, even to bed.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "brown",
+        "eyes": "glasses",
+        "teeth": null,
+        "clothing": "blouse",
+        "accessories": null,
+        "expression": "sazzy",
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "a34d7a7b-d8f6-46fb-9abc-6d6d7293fffb",
+    "hash": "312f343389643132f3135073eb8543913cec018f4615a97b7ebb6fb9388a504c",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

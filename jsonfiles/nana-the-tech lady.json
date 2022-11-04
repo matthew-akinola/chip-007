@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 365,
+    "filename": "nana-the-tech lady",
+    "name": "nana the tech lady",
+    "description": "Nana; the tech madam that doubles as Kumasi Adele in her bathroom every morning.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "black",
+        "eyes": null,
+        "teeth": null,
+        "clothing": "print kente",
+        "accessories": "gold glasses",
+        "expression": null,
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "e0858913-7050-4c4a-a2a0-442a88463334",
+    "hash": "7b0b7c61f3f3753382bb4392aff09437ca2fa6e09495a588d3615bc9b41eb818",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

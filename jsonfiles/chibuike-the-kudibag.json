@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 5,
+    "filename": "chibuike-the-kudibag",
+    "name": "chibuike the kudibag",
+    "description": "Chibuike is too rich. Everyone wonders how he got it.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "bald",
+        "eyes": "black",
+        "teeth": null,
+        "clothing": "blue",
+        "accessories": "mask",
+        "expression": null,
+        "strength": "hustler",
+        "weakness": null
+    },
+    "uuid": "5ce854f2-7ac1-46fd-b3fe-57583935d1e5",
+    "hash": "ec10a33274c8f0ec65270270e16d3bdc513223746e236e6e6423911bb14dd22d",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

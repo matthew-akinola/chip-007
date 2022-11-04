@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 352,
+    "filename": "bola-the-bosslady",
+    "name": "bola the bosslady",
+    "description": "A lady who supports the boy child by providing scholarship to young talented males.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "low cut",
+        "eyes": "brown",
+        "teeth": null,
+        "clothing": "short orange gown",
+        "accessories": "nose mask",
+        "expression": null,
+        "strength": "industrious",
+        "weaknes": "spend lavishly"
+    },
+    "uuid": "09ff910d-a2be-49d5-8b27-b9378458701c",
+    "hash": "05576b65ece11cf332b54acf21faf531c884beb8de0f67dc473225e292de349f",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

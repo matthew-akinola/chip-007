@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 330,
+    "filename": "olebon-the-oloibon",
+    "name": "olebon the oloibon",
+    "description": "Olebon is in a customized buba sokoto.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "bald",
+        "eyes": "closed",
+        "teeth": null,
+        "clothing": "animal print",
+        "accessories": null,
+        "expression": "surprised",
+        "strength": "empathy",
+        "weakness": "easily bored"
+    },
+    "uuid": "de261efe-731d-461e-b2e4-42edd2f48f72",
+    "hash": "de02856f4bd1b91c3cd4d8274bc3a9658ea1388326f8b8a57149fe437d321001",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

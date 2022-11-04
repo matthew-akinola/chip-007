@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 215,
+    "filename": "redlips-man",
+    "name": "redlips man",
+    "description": "A man that kissed a woman and got his lips burnt.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "brown",
+        "eyes": "blue",
+        "teeth": null,
+        "clothing": "shirt",
+        "accessories": null,
+        "expression": "frown",
+        "strength": "chewing",
+        "weakness": null
+    },
+    "uuid": "4d649c12-05a5-44a4-b4ef-eb285b291aff",
+    "hash": "daeb7b55117422b80ef8af5c6e1b8cc4777b7e6afb51e879e8e72a0f47f5a996",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

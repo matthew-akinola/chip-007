@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 76,
+    "filename": "avatar-aang",
+    "name": "avatar aang",
+    "description": "A man who is ready to save the world.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "bald",
+        "eyes": "opened",
+        "teeth": null,
+        "clothing": "kaftan",
+        "accessories": "nose mask",
+        "expression": "soothing",
+        "strength": "mind games",
+        "weakness": "insomia"
+    },
+    "uuid": "169f93a0-59d2-11ed-9b6a-0242ac120002",
+    "hash": "c657aa3a058230163433b0e93623087f98656b89a6b6f47f0fa475bbcbaac735",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

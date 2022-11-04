@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 74,
+    "filename": "bubune-of-accra",
+    "name": "bubune of accra",
+    "description": "A man with honor; always conscious of his health.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "bald",
+        "eyes": "closed",
+        "teeth": null,
+        "clothing": "kente",
+        "accessories": "nose mask",
+        "expression": "happy",
+        "strength": "clean",
+        "weakness": "foodie"
+    },
+    "uuid": "faa4b530-59d2-11ed-9b6a-0242ac120002",
+    "hash": "51d50889fcb19ff160ab93836955a35ca22cf5fd1ed730c60b5dee6d937898b4",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 123,
+    "filename": "yakubu-village-chief",
+    "name": "yakubu village chief",
+    "description": "Yakubu is the best village chieftain.",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": "blue",
+        "teeth": "open white teeth",
+        "clothing": "black isiagu",
+        "accessories": "cap",
+        "expression": "happy",
+        "strength": "strong",
+        "weakness": "impatience"
+    },
+    "uuid": "5b0c0d26-d204-4264-b579-081ff9df935b",
+    "hash": "be93da8b89057eb2d1082002b28d37f994c98b8995c72be0909ea8b599d65915",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 377,
+    "filename": "abena-the-slay queen",
+    "name": "abena the slay queen",
+    "description": "Abena; the gang's slay queen.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "long brown braids",
+        "eyes": "squinting",
+        "teeth": null,
+        "clothing": "v-neck original kente",
+        "accessories": null,
+        "expression": null,
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "1e4728e1-3e45-4972-9755-4a38e784ff91",
+    "hash": "74112f40fcc10b62aef904d536945b5b82bc11876d83cc94150f68382f6fe5a4",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

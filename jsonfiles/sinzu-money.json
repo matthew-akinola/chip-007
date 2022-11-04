@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 31,
+    "filename": "sinzu-money",
+    "name": "sinzu money",
+    "description": "Sinzu loves spending money on flashy things.",
+    "gender": "Male",
+    "attributes": {
+        "hair": null,
+        "eyes": "blue",
+        "teeth": "white complete teeth and a brown tooth",
+        "clothing": "purple and yellow kaftan",
+        "accessories": "green-stripped fila cap",
+        "expression": "strength",
+        "strength": "generous",
+        "weakness": "aggressive"
+    },
+    "uuid": "942f8347-9932-4331-bd15-d0f3a048b54f",
+    "hash": "4e5a627ad141091ae63d7bf4c57ee664e504bee9988781af94f72c9eb25f130c",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 155,
+    "filename": "ajobaru-a-creative-artist",
+    "name": "ajobaru a creative artist",
+    "description": "A lovely artist who is known for creating magical art pieces that can spark a smile.",
+    "gender": "Male",
+    "attributes": {
+        "hair": "black",
+        "eyes": null,
+        "teeth": null,
+        "clothing": "yelow kente shirt",
+        "accessories": null,
+        "expression": "cheerful",
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "9d262f55-73d7-4b95-9a82-42356dbb085c",
+    "hash": "010b18ebf4367f4bf196ea2d68c7c7a106b189c49934451919440e5f63aff267",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 274,
+    "filename": "lucy-the-fumigator",
+    "name": "lucy the fumigator",
+    "description": "Lucy is nicknamed the pest exterminator.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "red",
+        "eyes": "blue",
+        "teeth": null,
+        "clothing": "multicolour ankara",
+        "accessories": null,
+        "expression": null,
+        "strength": "determination",
+        "weakness": "self-criticism"
+    },
+    "uuid": "c7269d44-aab3-41e7-a54f-18a14f575a6b",
+    "hash": "4b52c1f80b528ce2ff30457c7067364d6f29de6ca275312bf0ae9739e4efb089",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

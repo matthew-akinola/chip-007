@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 374,
+    "filename": "wangari-the-waitress",
+    "name": "wangari the waitress",
+    "description": "Wangari; the aspiring musician that doubles as a waitress.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "purple dreadlocks",
+        "eyes": "brown eyes",
+        "teeth": null,
+        "clothing": null,
+        "accessories": "purple earrings",
+        "expression": null,
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "4bd7a15b-cc66-4e2d-8fdb-d550f2dd645c",
+    "hash": "feff7519b8956fcadb8ea2c6f2a92f28f3d83da1b30e2a5183c963bc0b22a251",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}

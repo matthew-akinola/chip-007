@@ -1,0 +1,22 @@
+{
+    "team names": "",
+    "series number": 373,
+    "filename": "busayo-the-husband snatcher",
+    "name": "busayo the husband snatcher",
+    "description": "Miss Busayo; loves being around her husband.",
+    "gender": "Female",
+    "attributes": {
+        "hair": "brown",
+        "eyes": "brown",
+        "teeth": null,
+        "clothing": null,
+        "accessories": null,
+        "expression": null,
+        "strength": null,
+        "weakness": null
+    },
+    "uuid": "73c8d935-4a71-41d2-a1de-066ae8d548e6",
+    "hash": "b2d4c325b294f6e9a03b5bed4d11b46a0d8f9227270640bc6ee874d784ab8b48",
+    "format": "CHIP-0007",
+    "sensitive_content": false
+}
