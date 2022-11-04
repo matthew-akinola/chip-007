@@ -1,7 +1,7 @@
 # chip-007
-'''
-Download and install python.exe
-*Navigate to the csv_converter.py
-*run 'python csv_converter.py' from the command line
-*Follow the instruction of the program, if successful, it won't return any message
-'''
+### How to run script
+1. Download and install python.exe
+2. Navigate to the csv_converter.py
+3. run 'python csv_converter.py' from the command line
+4. Follow the instruction of the program, if successful, it won't return any message
+
