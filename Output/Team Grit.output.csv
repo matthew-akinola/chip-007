@@ -1,0 +1,21 @@
+series number,filename,descriptor,gender,uuid,hash,format,sensitive_content
+61,toy-soldier,a man stronger than an army,male,fc8ea3ac-59d1-11ed-9b6a-0242ac120002,66ae5a346f86d11c47aef0afdbada60c7b00208cefdcf8e59340143aed35e85a,CHIP-0007,False
+62,pipey-rivers,a man who loves the water so much and fixes its path,male,58f69cae-59d1-11ed-9b6a-0242ac120002,d19e8e8eaccecac279d860a2a84a3a64d73ffa864e8483c81f0ce55f832deb72,CHIP-0007,False
+63,phiri-of-zambia,an african woman with strength and beauty,female,24b537fa-59d3-11ed-9b6a-0242ac120002,cb72ccdbd82152f2998b51c83ecb8e9027bd4a0a9f05d6ed5be9d2f41fc6ec1b,CHIP-0007,False
+64,patrick-of-bikinibottom,a white man who loves the African culture and associates with their dressing,male,064c7b84-59d3-11ed-9b6a-0242ac120002,eab39cd68ac9502d1f6b88724df5df9df6886d4e96a50722f4b6b81331d250e8,CHIP-0007,False
+65,nobuhle-of-zulu,a woman well endowed with beauty,female,1ee5b1ce-59d3-11ed-9b6a-0242ac120002,13425395c6603c5a23e634585eccb54b50f53172b6aae8f2d0e951d2a4118577,CHIP-0007,False
+66,nkosazana-of-xhosa,an african princess always proud of her culture,female,2f1a1724-59d3-11ed-9b6a-0242ac120002,544c1eb057710aedbb74ad15fff570a1b1ae719bebe90fcce52cc7d00d73df98,CHIP-0007,False
+67,mandla-of-zulu,a simple and an introvert who keeps to himself,male,d04553b2-59d7-11ed-9b6a-0242ac120002,f92f90314e2bde4a22c184f117b5d5ef634264d24dbc6e5025febaf38019a21a,CHIP-0007,False
+68,john-doe,a principled guy who is conscious of his health and ensures protection from infection,male,5d19795e-59d2-11ed-9b6a-0242ac120002,1c53baed9bdc64377389380a52107f5e96863cb25c4b7491af9be5860da4e26c,CHIP-0007,False
+69,ghost-of-power,a woman stronger than ten men combined,female,29c764ca-59d3-11ed-9b6a-0242ac120002,2668c4a54fe4f28857c21faed9951c3b3bf556be9248c7dfc5ba7275bf19bbaf,CHIP-0007,False
+70,freida,a man who is always peaceful,male,ee671c4a-59d2-11ed-9b6a-0242ac120002,2137ff12311ea05b9a6bdbc24b17f7b4befc0af61ee4c0c3fd0485a07ea8506d,CHIP-0007,False
+71,flamboyant-tree,beautiful african woman,female,380e4990-59d3-11ed-9b6a-0242ac120002,79e91cd89996dc55bdb8af4e5b5200ee8a95f4610c618343b40c41d0a35f8d6a,CHIP-0007,False
+72,david-of-accra,a combatant who fights and defends his people,male,1c1ef1b4-59d1-11ed-9b6a-0242ac120002,ea5806faf7dc0a770c19ebbaa0fa5025e728c318c0d7316db83234e04fa5787e,CHIP-0007,False
+73,cally-lily,a man who is a breath of fresh air,male,82bba87c-59d1-11ed-9b6a-0242ac120002,2c054aea1e414a5f0ece0cb5813aa41c4906c51639fbd3a0ecb949a60dc0443a,CHIP-0007,False
+74,bubune-of-accra,"a man with honor, always conscious of his health",male,faa4b530-59d2-11ed-9b6a-0242ac120002,51d50889fcb19ff160ab93836955a35ca22cf5fd1ed730c60b5dee6d937898b4,CHIP-0007,False
+75,bediako-of-accra,a strong man always ready to fight for what is right,male,fb6e8222-59d0-11ed-9b6a-0242ac120002,f79882c57a933e5d9c45e983147e4d5878290ff531f774640cc2a172a5eeb455,CHIP-0007,False
+76,avatar-aang,a man who is ready to save the world,male,169f93a0-59d2-11ed-9b6a-0242ac120002,c657aa3a058230163433b0e93623087f98656b89a6b6f47f0fa475bbcbaac735,CHIP-0007,False
+77,argus-greek,a man who feels like an outcast an always has a battle with his mind,male,e7f26b26-59d2-11ed-9b6a-0242ac120002,a64cf5a556afb9bc867d25e7682e705341511691a923557df7ffb8871d158938,CHIP-0007,False
+78,amahle-of-zulu,"A traditional man, feeling fulfilled",male,169f93a0-59d2-11ed-9b6a-0242ac120002,06a16f91df89ec429224ad99768d6cee0ce27284cb2ebfd93c9ed78e00021641,CHIP-0007,False
+79,agnar-ole,a man who feels like an outcast and always has a battle with his mind,male,f3f11fd0-59d2-11ed-9b6a-0242ac120002,04f60c79269a8cc241d05fb8a99337f7571892f708ca190021b1dc23db857602,CHIP-0007,False
+80,adom-kulu,"a Ghanaian model, proud of his culture",male,00f6589e-59d3-11ed-9b6a-0242ac120002,ad13a475d9d6232627e040d30468c07c50ebe92a5d6b4ca91b5db6f8cb4bc4b5,CHIP-0007,False
